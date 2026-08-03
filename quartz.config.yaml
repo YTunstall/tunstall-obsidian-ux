@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: tunstall-ux.github.io
+  baseUrl: ytunstall.github.io/tunstall-obsidian-ux
   ignorePatterns:
     - private
     - templates
