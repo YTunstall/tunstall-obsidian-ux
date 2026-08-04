@@ -4,7 +4,7 @@ Here you'll find resources on UX and UI design to help inform and support our de
 
 The vault is  searchable, so if you're looking for something specific, simply use the search function to find relevant content. 
 
-If you'd like to contribute to the encyclopedia, please send your suggestion to yasmin.khemir@tunstall.com or reach out via Teams or Slack. I'll review the submission and, if appropriate, add it to the vault. 
+>If you'd like to contribute to the encyclopedia, please send your suggestion to yasmin.khemir@tunstall.com or reach out via Teams or Slack. I'll review the submission and, if appropriate, add it to the vault. 
 
 Happy browsing!
 

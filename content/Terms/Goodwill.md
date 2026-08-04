@@ -1,0 +1,1 @@
+The amount of positive energy a user has when visiting a website or application. The user starts with a score of 100, which is then depleted depending on negative or positive experiences. The overall goal of UX is to maximize this goodwill so that the user returns to and uses the website or application again.
