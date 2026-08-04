@@ -1,0 +1,3 @@
+Contrast is the use of differences in color, size, shape, or typography to make important elements stand out. It improves readability, guides attention, and helps users quickly identify key actions. This is to be used sparingly as it can easily tilt the other way, if everything is important, nothing is important.
+
+**Example**: Making text bold to highlight it's importance in comparison to other text within proximity.
